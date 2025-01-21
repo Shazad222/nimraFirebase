@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576930394960",
+    "project_id": "driverapp-fbf37",
+    "storage_bucket": "driverapp-fbf37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576930394960:android:f9a72847417623d71af255",
+        "android_client_info": {
+          "package_name": "com.example.nimrapj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576930394960-d3h3mj67mnnjh8igmq0ovi6itvl26947.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ38PK8kl0u0nD64JnPqGCy3s4bW1TTSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576930394960-d3h3mj67mnnjh8igmq0ovi6itvl26947.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
